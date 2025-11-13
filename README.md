@@ -2,7 +2,7 @@
 
 ## 👤 Student Information
 - **Name:** Francis Charles Mbayo  
-- **Student ID:** 22396  
+- **Student ID:** 22396/2023
 - **Section:** (Add your section here)
 
 ---
@@ -16,12 +16,13 @@
 ---
 
 ## 💻 Code Link
-👉 [View Source Code on GitHub](https://github.com/FrancisCharlesMbayo/FrancisCharlesMbayo_22396)
+👉 [View Source Code on GitHub](https://francischarlesmbayo.github.io/FrancisCharlesMbayo_22396/))
 
 ---
 
 ## 📸 Screenshot
-![Portfolio Screenshot](img/Screenshot%202025-11-12%20003115.png)
+![Portfolio Screenshot]("img/Screenshot 2025-11-12 004113.png")
+![Portfolio Screenshot]("img/Screenshot 2025-11-12 004113.png")
 
 ---
 
