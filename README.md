@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Live Demo
-👉 [View My Portfolio Live](https://francischarlesmbayo.github.io/FrancisCharlesMbayo_22396/)
+👉 [View My Portfolio Live](https://francis-mba.github.io/FrancisCharlesMbayo_22396-2023/)
 
 > If the page does not appear, go to **Settings → Pages** on GitHub,  
 > set the **Source** to `main` branch, and choose the `/ (root)` folder.
@@ -16,7 +16,7 @@
 ---
 
 ## 💻 Code Link
-👉 [View Source Code on GitHub](https://francischarlesmbayo.github.io/FrancisCharlesMbayo_22396/))
+👉 [View Source Code on GitHub](https://github.com/Francis-mba/FrancisCharlesMbayo_22396-2023.git))
 
 ---
 
